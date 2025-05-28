@@ -1,88 +1,21 @@
-# PROPRIETARY SOFTWARE LICENSE
+MIT License
 
-**Calc App**
+Copyright (c) 2025 Saratchandra Raju
 
-Copyright © 2024 Saratchandra Raju. All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## LICENSE TERMS AND CONDITIONS
-
-### 1. GRANT OF LICENSE
-
-This software ("Calc App") and its associated documentation, including but not limited to source code, object code, executable files, user interface designs, algorithms, and all related materials (collectively, the "Software"), are the exclusive property of Saratchandra Raju ("Author" or "Licensor").
-
-### 2. RESTRICTIONS
-
-**YOU MAY NOT:**
-
-- **Copy, modify, or distribute** the Software or any portion thereof
-- **Reverse engineer, decompile, or disassemble** the Software
-- **Create derivative works** based on the Software
-- **Rent, lease, lend, or sublicense** the Software to any third party
-- **Remove or alter** any proprietary notices, labels, or marks from the Software
-- **Use the Software** for any commercial purpose without explicit written permission
-- **Extract, reproduce, or redistribute** any portion of the source code
-- **Create competing products** using knowledge gained from the Software
-
-### 3. PERMITTED USE
-
-**YOU MAY:**
-
-- **Download and install** the Software for personal, non-commercial use
-- **Use the Software** in accordance with its intended functionality
-- **Create backup copies** for personal archival purposes only
-
-### 4. INTELLECTUAL PROPERTY RIGHTS
-
-The Software contains proprietary and confidential information that is protected by applicable intellectual property and other laws. This includes but is not limited to:
-
-- **Copyright** in the source code, object code, and documentation
-- **Trade secrets** in algorithms, methodologies, and technical implementations
-- **Design rights** in user interface and user experience elements
-- **Trademark rights** in the application name and branding
-
-### 5. NO WARRANTY
-
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-### 6. LIMITATION OF LIABILITY
-
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-### 7. TERMINATION
-
-This license is effective until terminated. Your rights under this license will terminate automatically without notice from the Author if you fail to comply with any term(s) of this license. Upon termination of this license, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
-
-### 8. DATA AND PRIVACY
-
-The Software may collect and process user data in accordance with applicable privacy laws. By using the Software, you consent to such data collection and processing as described in the application's privacy policy.
-
-### 9. UPDATES AND MODIFICATIONS
-
-The Author reserves the right to update, modify, or discontinue the Software at any time without prior notice. This license applies to all versions and updates of the Software.
-
-### 10. GOVERNING LAW
-
-This license shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions. Any disputes arising under this license shall be subject to the exclusive jurisdiction of the courts of Hyderabad, Telangana, India.
-
-### 11. ENTIRE AGREEMENT
-
-This license constitutes the entire agreement between you and the Author regarding the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
-
-### 12. CONTACT INFORMATION
-
-For licensing inquiries, permissions, or other questions regarding this Software, please contact:
-
-**Saratchandra Raju**
-- **Portfolio:** https://saratchandra-raju-sarikonda.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/s-saratchandra-raju/  
-- **Email:** ssaratchandraraju@gmail.com
-
----
-
-**ACKNOWLEDGMENT**
-
-BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
-
-**Last Updated:** December 2024
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
