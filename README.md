@@ -163,14 +163,7 @@ screenshots/
 > **Note**: Add your app screenshots to the `screenshots/` folder in your repository root directory. Recommended dimensions: 1080x1920 (portrait orientation) for mobile screenshots.
 
 ## 📄 License
-
-This project is proprietary software. All rights reserved.
-
-**Copyright © 2024 Saratchandra Raju**
-
-This software and its documentation are protected by copyright law. No part of this software may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-For permission requests, please contact the author at the email address provided below.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
